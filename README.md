@@ -42,8 +42,3 @@ If you have docker installed run the following in the terminal:
 
 
 
-![Header](https://imgur.com/c934HdY.png)
-
-![Creat Blog](https://imgur.com/56XmG0D.png)
-
-![List Blog](https://imgur.com/NpekmpZ.png)
