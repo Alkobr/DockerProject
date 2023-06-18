@@ -1,6 +1,6 @@
 FROM node:14-slim
 
-WORKDIR /Noor-Blog-App/app
+WORKDIR /Osama-Employee-App/app
 
 COPY ./package.json ./
 COPY ./package-lock.json ./
@@ -9,6 +9,6 @@ RUN npm install
 
 COPY . .
 
-EXPOSE 3000
+EXPOSE 5000
 
 CMD ["index.js" ]
